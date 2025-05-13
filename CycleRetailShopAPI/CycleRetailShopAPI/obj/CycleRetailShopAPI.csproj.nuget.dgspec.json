@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\CycleRetailShopAPI.csproj": {}
+    "C:\\upload\\CycleRetailShopAPI\\CycleRetailShopAPI\\CycleRetailShopAPI.csproj": {}
   },
   "projects": {
-    "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\CycleRetailShopAPI.csproj": {
+    "C:\\upload\\CycleRetailShopAPI\\CycleRetailShopAPI\\CycleRetailShopAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\CycleRetailShopAPI.csproj",
+        "projectUniqueName": "C:\\upload\\CycleRetailShopAPI\\CycleRetailShopAPI\\CycleRetailShopAPI.csproj",
         "projectName": "CycleRetailShopAPI",
-        "projectPath": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\CycleRetailShopAPI.csproj",
+        "projectPath": "C:\\upload\\CycleRetailShopAPI\\CycleRetailShopAPI\\CycleRetailShopAPI.csproj",
         "packagesPath": "C:\\Users\\soven\\.nuget\\packages\\",
-        "outputPath": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\obj\\",
+        "outputPath": "C:\\upload\\CycleRetailShopAPI\\CycleRetailShopAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
