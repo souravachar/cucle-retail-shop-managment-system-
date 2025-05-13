@@ -1,0 +1,1197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Training-Final-Project\\CycleRetailShopAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\services\\reportschedulerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\services\\reportschedulerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\models\\stripesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\models\\stripesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\models\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\models\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\models\\cycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\models\\cycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\models\\customeraddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\models\\customeraddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\tests\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\tests\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\tests\\paymentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\tests\\paymentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\tests\\orderservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\tests\\orderservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\cycleretailshopapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\cycleretailshopapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\services\\scheduledreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\services\\scheduledreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\interfaces\\iemailservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\interfaces\\iemailservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\interfaces\\isalesreportservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\interfaces\\isalesreportservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\services\\salesreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\services\\salesreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\services\\upiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\services\\upiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\interfaces\\iupiservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\interfaces\\iupiservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\interfaces\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\interfaces\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\dtos\\paymentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\dtos\\paymentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\dtos\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\dtos\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\interfaces\\istripeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\interfaces\\istripeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\services\\stripeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\services\\stripeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\controllers\\cyclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\controllers\\cyclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\dtos\\allpaymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\dtos\\allpaymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\dtos\\orderupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\dtos\\orderupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\dtos\\ordersummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\dtos\\ordersummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\services\\cycleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\services\\cycleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\dtos\\customerupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\dtos\\customerupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\dtos\\cycledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\dtos\\cycledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\repositories\\cyclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\repositories\\cyclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\dtos\\orderrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\dtos\\orderrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\interfaces\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\interfaces\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\interfaces\\icycleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\interfaces\\icycleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\dtos\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\dtos\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\middleware\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\middleware\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\dtos\\inventoryreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\dtos\\inventoryreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\dtos\\reportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\dtos\\reportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\repositories\\reportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\repositories\\reportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\middleware\\pdfgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\middleware\\pdfgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\middleware\\emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\middleware\\emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\repositories\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\repositories\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|c:\\training-final-project\\cycleretailshopapi\\cycleretailshopapi\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73568EDD-7E27-47BB-86F1-107C4CD6F48C}|CycleRetailShopAPI\\CycleRetailShopAPI.csproj|solutionrelative:cycleretailshopapi\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cycle.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Models\\Cycle.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Models\\Cycle.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Models\\Cycle.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Models\\Cycle.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:08:38.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Controllers\\SalesController.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Controllers\\SalesController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAEwBsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:51:02.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:21:16.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwBsAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:32:21.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Models\\Customer.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Models\\Customer.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Models\\Customer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:08:29.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerAddress.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Models\\CustomerAddress.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Models\\CustomerAddress.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Models\\CustomerAddress.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Models\\CustomerAddress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T06:31:39.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Models\\Enums.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Models\\Enums.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Models\\Enums.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Models\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:09:22.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Models\\Order.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Models\\Order.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Models\\Order.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwv0IAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:08:46.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\appsettings.json",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\appsettings.json",
+              "RelativeToolTip": "CycleRetailShopAPI\\appsettings.json",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-03T11:23:34.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:13:55.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:08:55.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Models\\Payment.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Models\\Payment.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Models\\Payment.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAUwFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:09:06.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Models\\Report.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Models\\Report.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Models\\Report.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Models\\Report.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:09:15.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StripeSettings.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Models\\StripeSettings.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Models\\StripeSettings.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Models\\StripeSettings.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Models\\StripeSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:18:55.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ScheduledReportService.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Services\\ScheduledReportService.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Services\\ScheduledReportService.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Services\\ScheduledReportService.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Services\\ScheduledReportService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T05:23:25.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Models\\User.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:08:18.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReportSchedulerService.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Services\\ReportSchedulerService.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Services\\ReportSchedulerService.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Services\\ReportSchedulerService.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Services\\ReportSchedulerService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowBgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T05:54:50.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Services\\EmailService.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T05:04:44.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CycleRetailShopAPI.csproj",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\CycleRetailShopAPI.csproj",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\CycleRetailShopAPI.csproj",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\CycleRetailShopAPI.csproj",
+              "RelativeToolTip": "CycleRetailShopAPI\\CycleRetailShopAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-03T15:57:11.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PaymentServiceTests.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Tests\\PaymentServiceTests.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Tests\\PaymentServiceTests.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Tests\\PaymentServiceTests.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Tests\\PaymentServiceTests.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAqwCkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:16:12.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserServiceTests.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Tests\\UserServiceTests.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Tests\\UserServiceTests.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Tests\\UserServiceTests.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Tests\\UserServiceTests.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAA9wC4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:16:01.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:11:16.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Services\\UserService.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Services\\UserService.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:12:33.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IEmailService .cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Interfaces\\IEmailService .cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Interfaces\\IEmailService .cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Interfaces\\IEmailService .cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Interfaces\\IEmailService .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T05:56:30.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Services\\OrderService.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Services\\OrderService.cs",
+              "ViewState": "AgIAAPEAAAAAAAAAAAAqwBkBAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:12:59.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Services\\PaymentService.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Services\\PaymentService.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Services\\PaymentService.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAAALoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:13:05.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Interfaces\\IOrderService.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Interfaces\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:11:39.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Program.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Program.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Program.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAADgv44AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:24:18.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderServiceTests.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Tests\\OrderServiceTests.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Tests\\OrderServiceTests.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Tests\\OrderServiceTests.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Tests\\OrderServiceTests.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:14:27.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Controllers\\ReportsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:33:11.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SalesReportService.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Services\\SalesReportService.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Services\\SalesReportService.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Services\\SalesReportService.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Services\\SalesReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T05:03:36.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Services\\ReportService.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Services\\ReportService.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Services\\ReportService.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Services\\ReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:13:11.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ISalesReportService .cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Interfaces\\ISalesReportService .cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Interfaces\\ISalesReportService .cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Interfaces\\ISalesReportService .cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Interfaces\\ISalesReportService .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T05:31:19.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAewFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:32:32.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Services\\CustomerService.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Services\\CustomerService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:12:43.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "StripeService.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Services\\StripeService.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Services\\StripeService.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Services\\StripeService.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Services\\StripeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:08:14.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IUPIService .cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Interfaces\\IUPIService .cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Interfaces\\IUPIService .cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Interfaces\\IUPIService .cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Interfaces\\IUPIService .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T04:23:04.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "PaymentRequestDto.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\DTOs\\PaymentRequestDto.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\DTOs\\PaymentRequestDto.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\DTOs\\PaymentRequestDto.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\DTOs\\PaymentRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:20:23.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Controllers\\PaymentsController.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Controllers\\PaymentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:33:01.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IStripeService.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Interfaces\\IStripeService.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Interfaces\\IStripeService.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Interfaces\\IStripeService.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Interfaces\\IStripeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T06:28:18.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAwwG4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:32:50.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "PaymentDTO.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\DTOs\\PaymentDTO.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\DTOs\\PaymentDTO.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\DTOs\\PaymentDTO.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\DTOs\\PaymentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:10:28.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CyclesController.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Controllers\\CyclesController.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Controllers\\CyclesController.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Controllers\\CyclesController.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Controllers\\CyclesController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:32:40.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Interfaces\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Interfaces\\IPaymentService.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Interfaces\\IPaymentService.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Interfaces\\IPaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:11:47.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UPIService.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Services\\UPIService.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Services\\UPIService.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Services\\UPIService.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Services\\UPIService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T04:18:34.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:14:13.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AllPaymentDto.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\DTOs\\AllPaymentDto.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\DTOs\\AllPaymentDto.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\DTOs\\AllPaymentDto.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\DTOs\\AllPaymentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:10:02.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAQwD8AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:33:21.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\DTOs\\LoginDTO.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:09:56.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "OrderSummaryDTO.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\DTOs\\OrderSummaryDTO.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\DTOs\\OrderSummaryDTO.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\DTOs\\OrderSummaryDTO.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\DTOs\\OrderSummaryDTO.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T04:33:09.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "OrderUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\DTOs\\OrderUpdateDTO.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\DTOs\\OrderUpdateDTO.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\DTOs\\OrderUpdateDTO.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\DTOs\\OrderUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T04:55:00.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CycleService.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Services\\CycleService.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Services\\CycleService.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Services\\CycleService.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Services\\CycleService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwHAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:12:52.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:14:54.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Interfaces\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Interfaces\\ICustomerService.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Interfaces\\ICustomerService.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Interfaces\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:11:23.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\DTOs\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\DTOs\\OrderDTO.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\DTOs\\OrderDTO.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\DTOs\\OrderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:10:20.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "CycleRepository.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Repositories\\CycleRepository.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Repositories\\CycleRepository.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Repositories\\CycleRepository.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Repositories\\CycleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:14:08.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CycleDTO.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\DTOs\\CycleDTO.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\DTOs\\CycleDTO.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\DTOs\\CycleDTO.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\DTOs\\CycleDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:10:11.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CustomerUpdateDto.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\DTOs\\CustomerUpdateDto.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\DTOs\\CustomerUpdateDto.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\DTOs\\CustomerUpdateDto.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\DTOs\\CustomerUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T09:42:11.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "OrderRequestDTO.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\DTOs\\OrderRequestDTO.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\DTOs\\OrderRequestDTO.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\DTOs\\OrderRequestDTO.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\DTOs\\OrderRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T07:10:07.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "IReportService.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Interfaces\\IReportService.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Interfaces\\IReportService.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Interfaces\\IReportService.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Interfaces\\IReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:11:55.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ICycleService.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Interfaces\\ICycleService.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Interfaces\\ICycleService.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Interfaces\\ICycleService.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Interfaces\\ICycleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:11:30.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "UpdateProfileDTO.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\DTOs\\UpdateProfileDTO.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\DTOs\\UpdateProfileDTO.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\DTOs\\UpdateProfileDTO.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\DTOs\\UpdateProfileDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T10:25:21.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\DTOs\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\DTOs\\RegisterDTO.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\DTOs\\RegisterDTO.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\DTOs\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:10:03.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\DTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:09:47.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "InventoryReportDTO.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\DTOs\\InventoryReportDTO.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\DTOs\\InventoryReportDTO.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\DTOs\\InventoryReportDTO.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\DTOs\\InventoryReportDTO.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:13:43.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ReportDTO.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\DTOs\\ReportDTO.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\DTOs\\ReportDTO.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\DTOs\\ReportDTO.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\DTOs\\ReportDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:10:36.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "JwtMiddleware.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Middleware\\JwtMiddleware.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Middleware\\JwtMiddleware.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Middleware\\JwtMiddleware.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Middleware\\JwtMiddleware.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:15:23.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ReportRepository.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Repositories\\ReportRepository.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Repositories\\ReportRepository.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Repositories\\ReportRepository.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Repositories\\ReportRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:14:23.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "PDFGenerator.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Middleware\\PDFGenerator.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Middleware\\PDFGenerator.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Middleware\\PDFGenerator.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Middleware\\PDFGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:15:36.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "EmailHelper.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Middleware\\EmailHelper.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Middleware\\EmailHelper.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Middleware\\EmailHelper.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Middleware\\EmailHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:15:28.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "PaymentRepository.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Repositories\\PaymentRepository.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Repositories\\PaymentRepository.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Repositories\\PaymentRepository.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Repositories\\PaymentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:14:18.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "CycleRetailShopAPI\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Training-Final-Project\\CycleRetailShopAPI\\CycleRetailShopAPI\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "CycleRetailShopAPI\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:14:02.372Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
