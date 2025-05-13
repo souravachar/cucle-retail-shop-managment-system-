@@ -62,11 +62,11 @@ namespace CycleRetailShopAPI.Services
         {
             return method switch
             {
-                PaymentMethod.Cash => $"CASH-{new Random().Next(1000, 9999)}",
-                PaymentMethod.UPI => $"UPI-{DateTime.Now:yyyyMMddHHmmss}",
-                PaymentMethod.NetBanking => $"NB-{DateTime.Now:yyyyMMddHHmmss}",
-                PaymentMethod.Wallet => $"WALLET-{DateTime.Now:yyyyMMddHHmmss}",
-                _ => $"TXN-{DateTime.Now:yyyyMMddHHmmss}"
+                PaymentMethod.Cash => $")}",
+                PaymentMethod.UPI => $"",
+                PaymentMethod.NetBanking => $"",
+                PaymentMethod.Wallet => $"",
+                _ => $""
             };
         }
 
